@@ -9,9 +9,7 @@ To build the ROM (On Windows)
 
 1. Download source as a zip file
 2. Unzip the downloaded zip file
-3. Go through the folders till you find the source code 
-4. Double click on the build.bat file and choose to build the ROM
-5. Wait till the script completes (Once it is done a message will appear: Everything is OK)
+3. Execute the build.bat file
 
 To build the ROM (On Linux)
 
